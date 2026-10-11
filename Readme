@@ -1,0 +1,53 @@
+# 📝 Task Manager
+
+A simple, responsive Task Manager built with **HTML, CSS, and JavaScript**. Tasks are saved in the browser using **Local Storage**, so they stay even after you refresh or close the page.
+
+Built for **Round 1 | Technical Operations**, Satsang (ABES Engineering College).
+
+## 🔗 Links
+
+- **Live Demo:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+- **Source Code:** https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+
+## ✨ Features
+
+- Add new tasks
+- Mark tasks as complete or pending
+- Delete tasks
+- Edit existing tasks
+- Filter tasks by **All / Pending / Completed**
+- Tasks saved with **Local Storage**
+- Live counter of tasks left
+- Clear all completed tasks in one click
+- Dark mode (your choice is remembered)
+- Fully responsive for mobile and desktop
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (Flexbox, CSS variables, media queries)
+- Vanilla JavaScript (DOM manipulation, Local Storage)
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+   ```
+2. Open the folder:
+   ```bash
+   cd YOUR-REPO-NAME
+   ```
+3. Open `index.html` in any browser. No installation needed.
+
+## 📁 Project Structure
+
+```
+├── index.html   # HTML, CSS and JavaScript in one file
+└── README.md
+```
+
+## 👨‍💻 Author
+
+**Kshitij**
+B.Tech CSE (1st Year), ABES Engineering College, Lucknow
